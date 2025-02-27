@@ -64,9 +64,7 @@ A React-based frontend application that allows users to search, list, and reques
 ✔ Google authentication  
 ✔ Car listing and price updates (Admin)  
 ✔ Car search and purchase requests (Users)  
-✔ Fully responsive web design  
-
-📖 [Detailed Documentation](second-hand-car-app/README.md)  
+✔ Fully responsive web design   
 
 ---
 
