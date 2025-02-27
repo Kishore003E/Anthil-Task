@@ -53,7 +53,7 @@ A backend API built with **Express.js** and **MongoDB** that provides authentica
 ✔ Bus search & booking (Users)  
 ✔ Dockerized for deployment  
 
-📖 [Detailed Documentation]([bus-booking-api/README.md](https://documenter.getpostman.com/view/42576066/2sAYdfrBmJ))  
+📖 [Detailed Documentation](https://documenter.getpostman.com/view/42576066/2sAYdfrBmJ)  
 
 ---
 
